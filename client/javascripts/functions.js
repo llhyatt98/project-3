@@ -86,3 +86,14 @@ let findAllbitBatBotOrNots4 = (arr) => {
 console.log(findAllbitBatBotOrNots4([9, 10, 28, 30, 34, 105]));
 
 
+let findAllbitBatBotOrNotsXC = (arr) => {
+   //your code goes here
+   //use forEach method
+   let ret = Array();
+   for(let elem in arr){
+      ret.push(arr[elem].toString()+": "+bitBatBotOrNot(arr[elem]));
+   }
+   return ret;
+}
+console.log(findAllbitBatBotOrNotsXC([9, 10, 28, 30, 34, 105]));
+
