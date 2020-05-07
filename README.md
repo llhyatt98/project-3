@@ -1,6 +1,6 @@
 # Project 3 Repo
 
-![Github User Page](https://llhyatt98.github.io/)
+[Github User Page](https://llhyatt98.github.io/)
 
 ## 281 Project 3 Learning Outcomes
 
